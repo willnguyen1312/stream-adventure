@@ -1,0 +1,7 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nam Nguyen <nam.nguyen.node@gmail.com>",
+  "license": "MIT"
+}
